@@ -7,10 +7,10 @@ function Navbar() {
             			   bg-gray-900 text-gray-200'>
             
                 <div className="container flex justify-between text-lg">
-                    <h1 className="text-3xl font-bold">Gen Fit</h1>
+                    <Link to='/home' className="text-3xl font-bold">Gen Fit</Link>
                     <div className='flex gap-4 text-2xl'>
-                        <p className="hover:text-accent-color">Sobre Nós</p>
-                        <p className="hover:text-accent-color">Produto</p>
+                        <Link to='/sobrenos' className="hover:text-accent-color">Sobre Nós</Link>
+                        <Link to='/treinos' className="hover:text-accent-color">Produto</Link>
                     </div>
                 </div>
             </div>
