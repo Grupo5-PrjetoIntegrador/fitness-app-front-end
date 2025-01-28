@@ -2,7 +2,7 @@
 function Home() {
   return (
       <>
-          <div className="bg-gray-700 flex justify-center">
+          <div className="bg-slate-600 flex justify-center min-h-screen">
               <div className='container grid grid-cols-2 text-white'>
                   <div className="flex flex-col gap-4 items-center justify-center py-4">
                       <h2 className='text-5xl font-bold'>
@@ -16,7 +16,7 @@ function Home() {
                           <div className='rounded text-white 
                                           border-white border-solid border-2 py-2 px-4'
                               >
-                              Novo Produto
+                              Novo Treino
                           </div>
                       </div>
                   </div>
