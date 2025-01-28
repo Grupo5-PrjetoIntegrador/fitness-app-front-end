@@ -13,7 +13,7 @@ function Footer() {
                         </p>
                     <p className='text-lg'>Para mais de nossos projetos:</p>
                     <div className='flex gap-2'>
-                        <a href="https://github.com/Grupo5-PrjetoIntegrador">
+                        <a href="https://github.com/Grupo5-PrjetoIntegrador" target='_blank'>
                             <GithubLogo size={48} weight='bold' className='hover:text-accent-color' />
                         </a>
                     </div>

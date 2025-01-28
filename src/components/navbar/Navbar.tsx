@@ -10,7 +10,7 @@ function Navbar() {
                     <Link to='/home' className="text-3xl font-bold">Gen Fit</Link>
                     <div className='flex gap-4 text-2xl'>
                         <Link to='/sobrenos' className="hover:text-accent-color">Sobre Nós</Link>
-                        <Link to='/treinos' className="hover:text-accent-color">Produto</Link>
+                        <Link to='/exercicios' className="hover:text-accent-color">Exercícios</Link>
                     </div>
                 </div>
             </div>

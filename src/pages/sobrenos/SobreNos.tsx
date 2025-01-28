@@ -49,7 +49,7 @@ function SobreNos() {
 
       <div className="mt-10 max-w-4xl w-full px-4">
         <img
-          src="time-fit-academia.png"
+          src="https://ik.imagekit.io/caciasrs/PI%20-%20Gen%20Fit/team.png?updatedAt=1738082641182"
           alt="Equipe Fitness"
           className="rounded-2xl shadow-lg w-full"
         />

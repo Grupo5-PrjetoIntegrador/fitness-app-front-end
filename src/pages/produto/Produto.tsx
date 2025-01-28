@@ -2,9 +2,9 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 
 const exercises = [
-  { id: 1, name: "Flexão", category: "Peito", img: "https://www.hospitaldaluz.pt/Portals/_default/SiteData/GlobalAssets/Sa%C3%BAde%20e%20bem-estar/Imagens/2024/flexoes-tradicionais-01.png?ver=ZQ6PMt-_hyv6Xd_Ov03NvQ%3D%3D" },
-  { id: 2, name: "Agachamento", category: "Pernas", img: "https://static.vecteezy.com/ti/vetor-gratis/p1/8631412-mulher-fazendo-peso-corporal-agachamento-exercicio-plano-ilustracao-isolado-em-fundo-branco-vetor.jpg" },
-  { id: 3, name: "Prancha", category: "Core", img: "https://cdn-icons-png.flaticon.com/512/2647/2647643.png" },
+  { id: 1, name: "Flexão", category: "Peito", img: "https://ik.imagekit.io/caciasrs/PI%20-%20Gen%20Fit/flexoes-tradicionais-01.png?updatedAt=1738085473723" },
+  { id: 2, name: "Agachamento", category: "Pernas", img: "https://ik.imagekit.io/caciasrs/PI%20-%20Gen%20Fit/8631412-mulher-fazendo-peso-corporal-agachamento-exercicio-plano-ilustracao-isolado-em-fundo-branco-vetor.jpg?updatedAt=1738085473889" },
+  { id: 3, name: "Prancha", category: "Core", img: "https://ik.imagekit.io/caciasrs/PI%20-%20Gen%20Fit/2647643.png?updatedAt=1738085473576" },
 ];
 
 export default function ExerciseOptions() {
