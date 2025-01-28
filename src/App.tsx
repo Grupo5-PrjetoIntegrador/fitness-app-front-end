@@ -1,18 +1,15 @@
-import './App.css'
-import Produto from './pages/produto/Produto'
-import Home from './pages/home/Home'
-import SobreNos from './pages/sobrenos/SobreNos'
-
+import Footer from "./components/footer/Footer";
+import Navbar from "./components/navbar/Navbar";
+import Home from "./pages/home/Home";
 
 function App() {
-
   return (
     <>
+      <Navbar />
       <Home />
-      <SobreNos />
-      <Produto />
+      <Footer />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
