@@ -49,7 +49,7 @@ function SobreNos() {
 
       <div className="mt-10 max-w-4xl w-full px-4">
         <img
-          src="dev-team.jpg"
+          src="time-fit-academia.png"
           alt="Equipe Fitness"
           className="rounded-2xl shadow-lg w-full"
         />
